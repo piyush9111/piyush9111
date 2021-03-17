@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piyush9111
-- 👀 I’m interested in App and Web Developmenet.
+- 👀 I’m interested in App and Web Development.
 - 🌱 I’m currently learning React and Nodejs.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me ...
