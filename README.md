@@ -12,6 +12,3 @@ I am Proficient in These Technologies
 # Html
 # CSS
 # React
-# Node.JS
-# Express.JS
-# MongoDB
