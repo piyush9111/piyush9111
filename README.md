@@ -11,4 +11,8 @@ I am Proficient in These Technologies
 # JavaScript
 # Html
 # CSS
-# React
+# ReactJS
+# NodeJS
+# Android
+# Solidity
+# Web3
