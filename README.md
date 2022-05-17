@@ -13,6 +13,6 @@ I am Proficient in These Technologies
 # CSS
 # ReactJS
 # NodeJS
-# Android
+<!-- # Android
 # Solidity
-# Web3
+# Web3 -->
